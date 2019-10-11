@@ -1,3 +1,4 @@
+# %%
 import plotly.graph_objs as go
 import pandas as pd
 import plotly.graph_objs as goP
@@ -64,3 +65,4 @@ data = [
 ]
 
 iplot(data, filename='python-docs/multiple-surfaces')
+# %%
